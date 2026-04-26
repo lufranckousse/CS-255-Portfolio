@@ -88,21 +88,6 @@ In the future, I will:
 
 ---
 
-## Key Takeaways  
-This project helped me understand that system design is more than just coding. It involves:
-
-- Planning  
-- Structuring  
-- Clearly communicating system behavior  
-
-It also showed me how important it is to connect:
-- User needs  
-- System requirements  
-- Design models  
-
-Overall, this project strengthened my ability to design systems that are both functional and practical.
-
----
 
 ## Repository Contents  
 - Business Requirements Document (Project One)  
